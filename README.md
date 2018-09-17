@@ -2,9 +2,17 @@
 
 DESCRIPTION PLACEHOLDER
 
+* xubin cao
+* SWUFE labs Center
+
 ## What it does
 
 FEATURES PLACEHOLDER
+
+* auto
+* workflowing
+* ...
+
 
 ## Getting started
 
